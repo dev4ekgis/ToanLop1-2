@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+.row{
+    background-color: tomato;
+    color: white;
+    border: 1px solid black;
+    height: 19.5vh;
+    /* background-image: url("/src/public/images/bg1.jpg");
+    background-position: center; /* Center the image */
+    /* background-repeat: no-repeat; /* Do not repeat the image */
+    /* background-size: cover; Resize the background image to cover the entire container */ 
+}
